@@ -11,7 +11,7 @@
   
    
   
-      private static final String MESSAGE = "Hello World!welcome to maven "; 
+      private static final String MESSAGE = "Hello World!welcome to fortune "; 
   
    
   
